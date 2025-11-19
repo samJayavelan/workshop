@@ -1,5 +1,5 @@
 # Sample3
-Sample3 is the next generation calculator. Move over Personal Computer?
+Sample3 is the next generation calculator. Move over Personal Computer!
 And, say hello to the Personal Calculator...or maybe it will say `Hello` to you.
 Interestingly, this calculator doesn't do much calculation but it's really good at greeting you.
 
