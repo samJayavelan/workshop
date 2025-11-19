@@ -13,7 +13,7 @@ class TraditionalCalculator {
 
     equate() {
         let running = this.inputs[0];
-        for (let i = 1; i < this.inputs.length; i += 2) {
+        for (let i = 0; i < this.inputs.length; i += 2) {
             const o: string = this.inputs[i];
             const n: number = this.inputs[i + 1];
             switch (o) {
